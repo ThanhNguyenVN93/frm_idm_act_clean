@@ -1,0 +1,19 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet (restored automatically — see packages.config)
+packages/
+*.nupkg
+
+# Release packaging output (pack-release.ps1)
+release/
+tools/
+*.zip
